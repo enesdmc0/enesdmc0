@@ -1,3 +1,4 @@
+<div>
 <img src="https://media.giphy.com/media/TObbUke0z8Mo/giphy.gif"
 align="right" width="350" height="250">
 
@@ -27,6 +28,7 @@ align="right" width="350" height="250">
 
 ### Languages and Tools
 <br/>
+<div display="flex"">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30">
@@ -34,7 +36,10 @@ align="right" width="350" height="250">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="30">
+</div>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=enesdmc0&theme=radical">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesdmc0&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
