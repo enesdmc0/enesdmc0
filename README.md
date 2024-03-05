@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,<br>I' m Enes Demirci, I' live in Ankara<br>Frontend Developer || React - Next.js
+Hi,<br>I' m Enes Demirci, I' live in Ankara<br>Full Stack Developer || React - Next.js
 
 
 ## 🌐 Socials:
