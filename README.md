@@ -1,4 +1,4 @@
-Enes Demirci || Ankara<br>Full Stack Developer || React - Next.js
+Enes Demirci || Ankara<br>Full Stack Developer || Next.js - React Native
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enes_dmc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enesdemirci1)
